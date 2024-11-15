@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 # Initialize the ApifyClient with your API token
-client = ApifyClient("apify_api_6pLfIuo7cMxH29NeaZEbKJHaND9L2o0G0xrq")
+client = ("")
 
 # Prepare the Actor input
 run_input = {
